@@ -9,4 +9,4 @@ let random = Math.random()
 
 let mod = 9 % 5
 
-const max = 
+const max = Math.max(3,5,2,6,20)
